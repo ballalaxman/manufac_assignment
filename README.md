@@ -3,6 +3,10 @@ This project was created with CRA (Create React APP)
 
 ## Available Scripts
 
+In the project directory, run below command to install all the dependencies:
+
+### `yarn install`
+
 In the project directory, you can run/start the app:
 
 ### `yarn start`
@@ -17,6 +21,7 @@ You may also see any lint errors in the console.
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
+
 
 ### Screenshots of Scatter Plot and Bar Chart
 
