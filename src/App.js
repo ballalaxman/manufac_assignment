@@ -5,7 +5,7 @@ import Scatterplot from "./Scatterplot";
 
 function App() {
   return (
-    <div className="App">
+    <div className="grid">
       <div>
         <Scatterplot />
         <h3>Scatterplot between Color Intensity and Hue</h3>
